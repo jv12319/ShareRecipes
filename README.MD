@@ -54,6 +54,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+A unique challenge I faced was maintaining uniformity and consistency between values being pulled in and out of the database. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
