@@ -1,10 +1,10 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project - Recipes App
 
-Submitted by: **Your Name Here**
+Submitted by: Joseph Vargas
 
-This web app: **insert description**
+This web app: allows user to upload recipes of their favorite dishes. These recipes posted can be liked, disliked, edited and deleted from the website. 
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
